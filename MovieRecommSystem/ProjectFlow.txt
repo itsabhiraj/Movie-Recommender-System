@@ -1,0 +1,4 @@
+The project flow here is quite simple
+We have two datasets here as tmdb_5000_credits.csv and tmdb_5000_movies.csv 
+we'll do some preprocessing to tha dataset
+we'll train the model then
